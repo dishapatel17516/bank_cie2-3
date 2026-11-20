@@ -11,5 +11,5 @@ def bank(acc_bal,withd_amt):
        acc_bal = int(sys.argv[1])
        withd_amt = int(sys.argv[2])
 
-      print(f"Account balance: ",acc_bal)
-      print(f"Withdrawal amount: ",withd_amt)
+print(f"Account balance: ",acc_bal)
+print(f"Withdrawal amount: ",withd_amt)
