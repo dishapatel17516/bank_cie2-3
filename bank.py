@@ -10,6 +10,6 @@ def bank(acc_bal,withd_amt):
 if__main__ = __"name"__:
    acc_bal = int(sys.argv[1])
    withd_amt = int(sys.argv[2])
-   total = bank(acc_bal,withd_amt)
+   acc_bal_f = bank(acc_bal,withd_amt)
    print("final balance: ",acc_bal_f)
 
