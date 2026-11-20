@@ -6,7 +6,7 @@ def bank(acc_bal,withd_amt):
     print("Account balance: ",acc_bal)
     print("Withdrawal amount: ",withd_amt)
 
-    if acc_bal_f < 1000
+    if acc_bal_f < 1000:
        print("insufficent balance")
     else
        print("sufficient balance")
