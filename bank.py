@@ -1,3 +1,4 @@
+import sys
 def bank_d(acc_bal,withd_amt):
    acc_bal_f = acc_bal - withd_amt
 
