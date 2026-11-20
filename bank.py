@@ -8,5 +8,5 @@ def bank(acc_bal,withd_amt):
 
     if acc_bal_f < 1000:
        print("insufficent balance")
-    else
+    else:
        print("sufficient balance")
