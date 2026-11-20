@@ -7,7 +7,7 @@ def bank(acc_bal,withd_amt):
    else:
       print("sufficient balance")
 
-if__main__ = __"name"__:
+if __main__ = __"name"__:
    acc_bal = int(sys.argv[1])
    withd_amt = int(sys.argv[2])
    acc_bal_f = bank(acc_bal,withd_amt)
