@@ -8,7 +8,7 @@ def bank(acc_bal,withd_amt):
 
    return acc_bal_f
 
-   if __main__ == __name__:
+   if __name__ == "__main__":
       acc_bal = int(sys.argv[1])
       withd_amt = int(sys.argv[2])
       acc_bal_f = bank(acc_bal,withd_amt)
