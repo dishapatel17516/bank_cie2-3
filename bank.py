@@ -12,7 +12,7 @@ def bank_d(acc_bal,withd_amt):
    if __name__ == "__main__":
       acc_bal = int(sys.argv[1])
       withd_amt = int(sys.argv[2])
-      acc_bal_f = bank_d(acc_bal,withd_amt)
+      acc_bal_final = bank_d(acc_bal,withd_amt)
       print("final balance: ",acc_bal_f)
 
 
